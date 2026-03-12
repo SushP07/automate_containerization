@@ -1,5 +1,6 @@
 # This project Automates the containerization of WebApp
-[Architecture of Project](https://github.com/SushP07/automate_containerization/blob/main/flow.svg)
+![Architecture of Project](https://github.com/SushP07/automate_containerization/blob/main/flow.svg)
+
 ## Clone the repository
 ```bash
 git clone https://github.com/your-username/docker-gha.git
